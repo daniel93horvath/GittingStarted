@@ -4,3 +4,7 @@
 ---
 
 Email me at [daniel93.horvath@gmail.com](Mailto:daniel93.horvath@gmail.com)
+
+--
+
+This is another change to our project
